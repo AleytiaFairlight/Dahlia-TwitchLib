@@ -1,6 +1,12 @@
 [submodule "TwitchLib.Api"]
 	path = TwitchLib.Api
-	url = https://github.com/TwitchLib/TwitchLib.Api
+	url = https://github.com/AleytiaFairlight/Dahlia-TwitchLib.Api.git
 [submodule "TwitchLib.EventSub.Websockets"]
 	path = TwitchLib.EventSub.Websockets
-	url = https://github.com/TwitchLib/TwitchLib.EventSub.Websockets.git
+	url = https://github.com/AleytiaFairlight/Dahlia-TwitchLib.EventSub.Websockets.git
+[submodule "TwitchLib.Client"]
+	path = TwitchLib.Client
+	url = https://github.com/AleytiaFairlight/Dahlia-TwitchLib.Client.git
+[submodule "TwitchLib.EventSub.Webhooks"]
+	path = TwitchLib.EventSub.Webhooks
+	url = https://github.com/AleytiaFairlight/Dahlia-TwitchLib.EventSub.Webhooks.git
